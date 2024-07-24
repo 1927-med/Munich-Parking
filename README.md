@@ -80,6 +80,6 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - email@example.com
+Your Name - medhanegirmay4@gmail.com
 
 Project Link: https://github.com/1927-med/Munich-Parking.git
