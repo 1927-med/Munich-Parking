@@ -114,5 +114,18 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
 });
+const HelloWorldApp = () => {
+  return (
+    <View
+      style={{
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+      }}>
+      <Text>Munich Parking Mobile</Text>
+    </View>
+  );
+};
+export default HelloWorldApp;
 
-export default App;
+//export default App;
