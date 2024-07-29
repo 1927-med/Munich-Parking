@@ -5,7 +5,7 @@
  * @format
  */
 import React from 'react';
-import * as logo from 'Munich.png';
+import logo from './Munich.png';
 
 const App: React.FC = () => {
   return (

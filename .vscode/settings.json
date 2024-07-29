@@ -1,3 +1,10 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic"
-}
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.jdt.ls.java.home": "/usr/bin/java",
+    "gradle.javaHome": "/usr/bin/java",
+    "gradle.distributionUrl": "https://services.gradle.org/distributions/gradle-7.0.2-bin.zip",
+    "gradle.tasks": [
+      "clean",
+      "build"
+    ]
+  }
